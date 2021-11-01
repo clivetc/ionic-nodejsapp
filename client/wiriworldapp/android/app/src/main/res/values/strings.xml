@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">wiriworldapp</string>
+    <string name="title_activity_main">wiriworldapp</string>
+    <string name="package_name">wiriworld.com</string>
+    <string name="custom_url_scheme">wiriworld.com</string>
+</resources>

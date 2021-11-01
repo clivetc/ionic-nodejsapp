@@ -1,0 +1,6 @@
+{
+	"appId": "wiriworld.com",
+	"appName": "wiriworldapp",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
